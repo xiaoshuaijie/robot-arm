@@ -1,0 +1,3 @@
+# Keep repository lean; do not commit expanded archive contents by default.
+robot arm/
+
